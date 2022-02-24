@@ -173,6 +173,6 @@ Module['FS_createPath']('/Kevins_Idle_Game/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 52, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 52, "audio": 0, "end": 104, "filename": "/UE4CommandLine.txt"}, {"start": 104, "audio": 0, "end": 57440352, "filename": "/Kevins_Idle_Game/Content/Paks/Kevins_Idle_Game-HTML5.pak"}], "remote_package_size": 57440352, "package_uuid": "31b8a28a-dbdd-4c37-b250-b91c531b4260"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 52, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 52, "audio": 0, "end": 104, "filename": "/UE4CommandLine.txt"}, {"start": 104, "audio": 0, "end": 75452304, "filename": "/Kevins_Idle_Game/Content/Paks/Kevins_Idle_Game-HTML5.pak"}], "remote_package_size": 75452304, "package_uuid": "78dcfa8d-848d-4144-bfee-3c7d6d9a5003"});
 
 })();
